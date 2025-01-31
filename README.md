@@ -9,7 +9,5 @@
 
 <img src="https://thumbs2.imgbox.com/a1/98/tw9uDdL4_t.jpg" alt="image host" width=300>
 
-#### Avatar:
 
-<img src="https://thumbs2.imgbox.com/a1/98/tw9uDdL4_t.jpg" alt="image host" width=300>
 
